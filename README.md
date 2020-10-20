@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This uses CircleCI for CI and Netlify for deployment.
+
 ## Available Scripts
 
 In the project directory, you can run:
