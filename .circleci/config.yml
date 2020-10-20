@@ -1,8 +1,8 @@
+
 version: 2.1
 jobs:
   build-test:
     docker:
-      # specify the version you desire here
       - image: circleci/node:12
 
     steps:
